@@ -45,4 +45,4 @@ All implementation work and code in this repository represent **my own solution 
 ## License
 
 This repository is shared publicly for educational and portfolio purposes.  
-Original materials [GreatFrontEnd](https://www.greatfrontend.com/). My code and edits [Dillon Cleaver](<(https://www.dilloncleaver.com/)>).
+Original materials [GreatFrontEnd](https://www.greatfrontend.com/). My code and edits [Dillon Cleaver](https://www.dilloncleaver.com/).
